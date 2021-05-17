@@ -45,4 +45,5 @@ int main()
                 book++;
             *book = pages;
 
-        } else if (type_of_query == 2) {
+        } else if (type_of_query == 2) 
+        {
