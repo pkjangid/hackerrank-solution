@@ -23,7 +23,8 @@ int main()
     printf("%d\n", mxOr);
     printf("%d\n", mxXor);
  
-    return 0;
+    
+return 0;
 
 
 }
