@@ -20,3 +20,4 @@ int main(){
     printf("%d\n", argmax+1);
     return 0;
 }
+@pkjangid
