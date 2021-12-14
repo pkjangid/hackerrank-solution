@@ -15,7 +15,8 @@ int main()
         sum += *(arr + i);
     }
 
-    printf("%d\n", sum);
+    
+printf("%d\n", sum);
     free(arr);
     return 0;
 
