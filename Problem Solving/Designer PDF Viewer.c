@@ -23,6 +23,7 @@ int main(){
               maxh = h[word[c]-97];
           }
     }
+   
     printf("%i\n", maxh*len);
     return 0;
 }
