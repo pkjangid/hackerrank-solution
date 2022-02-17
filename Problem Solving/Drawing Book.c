@@ -14,4 +14,5 @@ int main()
     if (a[p]-1<j-a[p]) printf("%d",a[p]-1);
     else printf("%d",j-a[p]);
     return 0;
+
 }
